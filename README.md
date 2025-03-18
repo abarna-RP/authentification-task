@@ -51,10 +51,10 @@ This is a Node.js application implementing user authentication and authorization
 
     ```json
     {
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+      "token": eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
     eyJfaWQiOiI2N2Q4ZmZkMTkyOTY3YTUzNWEwN2JjZmEiLCJp
     YXQiOjE3NDIyNzc3NTIsImV4cCI6MTc0MjI4MTM1Mn0.
-    xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU"
+    xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU
     }
     ```
 
