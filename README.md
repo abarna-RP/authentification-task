@@ -51,7 +51,7 @@ This is a Node.js application implementing user authentication and authorization
 
     ```json
     {
-      "token": secret
+      "token": "secret"
     }
     ```
 
