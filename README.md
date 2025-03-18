@@ -22,7 +22,7 @@ This is a Node.js application implementing user authentication and authorization
     {
       "username": ""subasri"
 
-      "email": ""suba@gmail.com"",",
+      "email": "suba@gmail.com",
       "password": "suba12!"
     }
     ```
@@ -61,11 +61,11 @@ This is a Node.js application implementing user authentication and authorization
 ### Get User Info
 
 -   **Endpoint:** `api /user/getuser`
--   **Headers:** `Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+-   **Headers:** `Authorization: Bearer "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 -   eyJfaWQiOiI2N2Q4ZmZkMTkyOTY3YTUzNWEwN2
 -   JjZmEiLCJpYXQiOjE3NDIyNzc3NTIsImV4cCI6MT
 -   c0MjI4MTM1Mn0.
--   xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU`
+-   xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU"`
 -   **Response:**
 
     ```json
@@ -76,5 +76,5 @@ This is a Node.js application implementing user authentication and authorization
         "_id": "67d8ffd192967a535a07bcfa"
       }
     }
-    ![alt image]()
+    ![alt image](https://github.com/abarna-RP/authentification-task/blob/main/authentification%20task.png)
     ```
