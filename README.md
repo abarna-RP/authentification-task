@@ -51,21 +51,15 @@ This is a Node.js application implementing user authentication and authorization
 
     ```json
     {
-      "token": eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
-    eyJfaWQiOiI2N2Q4ZmZkMTkyOTY3YTUzNWEwN2JjZmEiLCJp
-    YXQiOjE3NDIyNzc3NTIsImV4cCI6MTc0MjI4MTM1Mn0.
-    xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU
+      "token": secret
     }
     ```
 
 ### Get User Info
 
 -   **Endpoint:** `api /user/getuser`
--   **Headers:** `Authorization: Bearer "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
--   eyJfaWQiOiI2N2Q4ZmZkMTkyOTY3YTUzNWEwN2
--   JjZmEiLCJpYXQiOjE3NDIyNzc3NTIsImV4cCI6MT
--   c0MjI4MTM1Mn0.
--   xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU"`
+-   **Headers:** Authorization: Bearer.
+-   `
 -   **Response:**
 
     json
