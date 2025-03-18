@@ -20,7 +20,7 @@ This is a Node.js application implementing user authentication and authorization
 
     ```json
     {
-      "username": ""subasri"
+      "username": "subasri"
 
       "email": "suba@gmail.com",
       "password": "suba12!"
@@ -68,7 +68,7 @@ This is a Node.js application implementing user authentication and authorization
 -   xKzBUrLPRn5CwMvlORJyF_mNMSh5wkKnnEJB5G8MxFU"`
 -   **Response:**
 
-    ```json
+    json
     {
       "user": {
         "username": "subasri",
@@ -76,5 +76,5 @@ This is a Node.js application implementing user authentication and authorization
         "_id": "67d8ffd192967a535a07bcfa"
       }
     }
+    
     ![alt image](https://github.com/abarna-RP/authentification-task/blob/main/authentification%20task.png)
-    ```
